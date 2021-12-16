@@ -8,3 +8,5 @@ example below from test api manual by using get method.
 ![Capture](https://user-images.githubusercontent.com/83489226/146426718-355e9e95-226e-4631-bb9c-0a40af0877b1.PNG)
 
 we atuomate API by using RestAssured
+
+![Capture](https://user-images.githubusercontent.com/83489226/146427337-e996b3da-3ecb-40c0-8c80-aea44b09e4fb.PNG)
